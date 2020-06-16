@@ -1,3 +1,3 @@
-# xLOG
+# README
 
-GitBook: [https://x676f.gitbook.io/xlog/](https://x676f.gitbook.io/xlog/)
+一些重要的记录，同时方便共享……
