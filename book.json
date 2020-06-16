@@ -1,12 +1,13 @@
 {
   "title": "xLOG",
-  "description": "一些重要的记录，同时方便分享",
+  "description": "x676f - xLOG",
   "author": "x676f",
+  "output.name": "site",
   "language": "zh-hans",
-  "gitbook": "3.2.3",
-  "links": {
-    "sidebar": {
-      "GitHub": "https://github.com/x676f/gitbook_xlog"
-    }
-  }
+  "root": ".",
+  "structure": {
+    "readme": "INTRO.md"
+  },
+  "plugins": [
+  ]
 }
