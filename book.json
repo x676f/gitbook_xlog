@@ -4,7 +4,7 @@
   "author": "x676f",
   "output.name": "site",
   "language": "zh-hans",
-  "root": ".",
+  "theme": "white",
   "structure": {
     "readme": "INTRO.md"
   },
